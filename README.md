@@ -21,4 +21,4 @@ I made the Centipede. I used the Unity Editor and C# for coding. I want to expla
 -UI.
 
 
-You can play in this addres: https://sharemygame.com/@Poki/
+You can play in this addres via WebGL: https://sharemygame.com/@Poki/
